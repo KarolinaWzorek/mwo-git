@@ -6,5 +6,11 @@ System.out.println("We will be Git experts, soon.");
   public static void StartRocket(){
   System.out.println("ziiiuuuummmm!!!")
   }
+
+Public static void  satellite(){
+System.out.println("buum !!!");
+}
+
+manging-satellite
     }
 }
